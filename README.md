@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ivan 👋</h1>
 
 <p align="center">
-  Junior full-stack developer focused on <b>Java / Spring Boot</b> back ends and <b>React / TypeScript</b> front ends.<br>
+  Junior full-stack developer focused on <b>Java / Spring Boot</b> back ends and <b>Angular / TypeScript</b> front ends.<br>
   Based in Asturias, Spain · Open to relocation and remote work
 </p>
 
@@ -15,11 +15,11 @@
 
 ### About me
 
-- 🛠️ I build REST APIs with Spring Boot and PostgreSQL, and web front ends with React and Next.js.
+- 🛠️ I build REST APIs with Spring Boot and PostgreSQL, and web front ends with Angular and Next.js.
 - 🧪 I test my code with JUnit 5 and Mockito and aim to keep it readable and documented.
-- 🎓 Studying Computer Engineering (Software Engineering track) at UOC, after a Higher Technician degree in Multiplatform App Development (DAM).
+- 🎓 Studying Computer Engineering (Software Engineering track) at UOC.
 - 🤖 Medium-term interest in data and AI.
-- 🌍 Spanish (native) · English (C1)
+- 🌍 Spanish (native) · English (C1)  · German(A1)
 
 ### Featured projects
 
