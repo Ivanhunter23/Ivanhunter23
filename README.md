@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ivan 👋</h1>
 
-<!--
-**Ivanhunter23/Ivanhunter23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Junior full-stack developer focused on <b>Java / Spring Boot</b> back ends and <b>React / TypeScript</b> front ends.<br>
+  Based in Asturias, Spain · Open to relocation and remote work
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://ivanhunter23.github.io/Portfolio/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a> ·
+  <a href="mailto:YOUR-EMAIL@example.com">Email</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About me
+
+- 🛠️ I build REST APIs with Spring Boot and PostgreSQL, and web front ends with React and Next.js.
+- 🧪 I test my code with JUnit 5 and Mockito and aim to keep it readable and documented.
+- 🎓 Studying Computer Engineering (Software Engineering track) at UOC, after a Higher Technician degree in Multiplatform App Development (DAM).
+- 🤖 Medium-term interest in data and AI.
+- 🌍 Spanish (native) · English (C1)
+
+### Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Expense Tracker](https://github.com/Ivanhunter23/expense-tracker) | Personal finance REST API, grown step by step from a Java CLI into a Spring Boot app | Java 21, Spring Boot, JPA/Hibernate, PostgreSQL, JUnit 5, Mockito |
+| [Journally](https://github.com/Ivanhunter23/Journally) | Journal, habit tracker and next-day planner | Next.js, TypeScript, Prisma |
+| [Portfolio](https://github.com/Ivanhunter23/Portfolio) | My personal website — [see it live](https://ivanhunter23.github.io/Portfolio/) | TypeScript |
+| [NeetCode submissions](https://github.com/Ivanhunter23/neetcode-submissions) | Data structures and algorithms practice | Java |
+
+### Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,linux" alt="Back end: Java, Spring Boot, PostgreSQL, Docker, Git, Linux" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,angular,py,wordpress" alt="Front end and more: TypeScript, React, Next.js, Angular, Python, WordPress" />
+</p>
+
+### Currently
+
+- 🔨 Growing Expense Tracker into a complete, well-tested REST API
+- 📦 Next up: **StockFlow**, an inventory and order management backend designed as a modular monolith
