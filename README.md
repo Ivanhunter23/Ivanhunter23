@@ -26,9 +26,6 @@
 | Project | Description | Stack |
 |---|---|---|
 | [Expense Tracker](https://github.com/Ivanhunter23/expense-tracker) | Personal finance REST API, grown step by step from a Java CLI into a Spring Boot app | Java 21, Spring Boot, JPA/Hibernate, PostgreSQL, JUnit 5, Mockito |
-| [Journally](https://github.com/Ivanhunter23/Journally) | Journal, habit tracker and next-day planner | Next.js, TypeScript, Prisma |
-| [Portfolio](https://github.com/Ivanhunter23/Portfolio) | My personal website — [see it live](https://ivanhunter23.github.io/Portfolio/) | TypeScript |
-| [NeetCode submissions](https://github.com/Ivanhunter23/neetcode-submissions) | Data structures and algorithms practice | Java |
 
 ### Tech stack
 
