@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://ivanhunter23.github.io/Portfolio/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a> ·
-  <a href="mailto:YOUR-EMAIL@example.com">Email</a>
+  <a href="https://www.linkedin.com/in/ivan-espinar-cabello/">LinkedIn</a> ·
+  <a href="mailto:ivanespinfor@gmail.com">Email</a>
 </p>
 
 ---
